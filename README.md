@@ -46,21 +46,11 @@ This project replicates a QR code component that displays a QR code and text inf
 ## Setup Instructions
 
 1.  Clone the repository:
-    
-    bash
-    
-    Copy code
-    
-    `git clone https://github.com/savalaram-redkar/frontend-mentor-qr-code-component.git` 
-    
+    ```bash
+    git clone https://github.com/savalaram-redkar/frontend-mentor-qr-code-component.git
 2.  Navigate to the project folder:
-    
-    bash
-    
-    Copy code
-    
-    `cd frontend-mentor-qr-code-component` 
-    
+    ```bash
+    cd frontend-mentor-qr-code-component
 3.  Open `index.html` in your browser to view the project.
 
 ----------
